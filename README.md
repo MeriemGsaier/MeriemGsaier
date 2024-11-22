@@ -17,7 +17,7 @@
 ## 🛠️ Frameworks
 | Angular               | Spring Boot          | Express.js          |
 |------------------------|----------------------|---------------------|
-| <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" /> | <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" /> | <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" alt="Express.js" /> |
+| <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" /> | <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" /> | <img src="https://th.bing.com/th/id/OIP.hTohJITrIVziX8BF7QmwCAHaHa?rs=1&pid=ImgDetMain" alt="Express.js" /> |
 
 ---
 
