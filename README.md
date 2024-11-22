@@ -17,7 +17,7 @@
 ## 🛠️ Frameworks
 | Angular               | Spring Boot          | Express.js          |
 |------------------------|----------------------|---------------------|
-| <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" /> | <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" /> | <img src="https://th.bing.com/th/id/OIP.hTohJITrIVziX8BF7QmwCAHaHa?rs=1&pid=ImgDetMain" alt="Express.js" /> |
+| <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" /> | <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" /> | <img src="https://th.bing.com/th/id/OIP.hTohJITrIVziX8BF7QmwCAHaHa?rs=1&pid=ImgDetMain" alt="Express.js" width="48" height="48" /> |
 
 ---
 
@@ -29,6 +29,6 @@
 ---
 
 ## 🔧 Tools & Platforms
-| Power BI              | Docker               | Postman             | Git                  |
-|------------------------|----------------------|---------------------|----------------------|
-| <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" /> | <img src="[https://img.icons8.com/color/48/000000/docker.png](https://www.marketbeat.com/logos/talend-sa-logo.png)" alt="Talend" /> | <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /> | <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" /> | <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /> |
+| Power BI              | Docker               | Talend              | Postman             | Git                  |
+|------------------------|----------------------|---------------------|---------------------|----------------------|
+| <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" /> | <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /> | <img src="https://www.marketbeat.com/logos/talend-sa-logo.png" alt="Talend" width="48" height="48" /> | <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="48" height="48" /> | <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /> |
