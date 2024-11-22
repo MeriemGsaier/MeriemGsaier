@@ -31,4 +31,4 @@
 ## 🔧 Tools & Platforms
 | Power BI              | Docker               | Postman             | Git                  |
 |------------------------|----------------------|---------------------|----------------------|
-| <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" /> | <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /> | <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" /> | <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /> |
+| <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" /> | <img src="[https://img.icons8.com/color/48/000000/docker.png](https://www.marketbeat.com/logos/talend-sa-logo.png)" alt="Talend" /> | <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /> | <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" /> | <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /> |
